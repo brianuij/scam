@@ -2,3 +2,4 @@
 path/to/20240408.zip filter=lfs diff=lfs merge=lfs -text
 20240408.zip filter=lfs diff=lfs merge=lfs -text
 C:/Users/admin/Desktop/20240408.zip filter=lfs diff=lfs merge=lfs -text
+large_file.zip filter=lfs diff=lfs merge=lfs -text
